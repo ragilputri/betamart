@@ -1,0 +1,11 @@
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\bin\Debug\BetaMart_crud.exe.config
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\bin\Debug\BetaMart_crud.exe
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\bin\Debug\BetaMart_crud.pdb
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.csprojAssemblyReference.cache
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.Form1.resources
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.Properties.Resources.resources
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.csproj.GenerateResource.cache
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.csproj.CoreCompileInputs.cache
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.exe
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\obj\Debug\BetaMart_crud.pdb
+D:\XII RPL 5\UKK\Pemograman Berorientasi Objek\BetaMart_crud\BetaMart_crud\bin\Debug\mydb.accdb
